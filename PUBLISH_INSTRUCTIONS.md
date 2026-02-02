@@ -13,18 +13,18 @@ Since I cannot access `git` in your terminal, check the steps below.
    git add .
    git commit -m "My Valentine Project"
    git branch -M main
-   git remote add origin https://github.com/AEmad99/important-project
+   git remote add origin https://github.com/AEmad99/important-project-2
    git push -u origin main
    ```
 
 3. **Enable GitHub Pages:**
-   - Go to your repo: [https://github.com/AEmad99/important-project](https://github.com/AEmad99/important-project)
+   - Go to your repo: [https://github.com/AEmad99/important-project-2](https://github.com/AEmad99/important-project-2)
    - Click **Settings** > **Pages** (sidebar).
    - Under **Build and deployment** > **Source**, select **GitHub Actions**.
    - The deployment will trigger automatically!
 
 ## Option 2: Upload Manually (No Git)
-1. Go to your repo: [https://github.com/AEmad99/important-project](https://github.com/AEmad99/important-project)
+1. Go to your repo: [https://github.com/AEmad99/important-project-2](https://github.com/AEmad99/important-project-2)
 2. Click **Add file** > **Upload files**.
 3. Drag and drop **ALL** the files from your `d:\valentine` folder into the browser.
 4. Commit the changes.
@@ -36,6 +36,6 @@ Since I cannot access `git` in your terminal, check the steps below.
 
 ## Final Step
 Once deployed, your website will be live at:  
-**https://aemad99.github.io/important-project/**
+**https://aemad99.github.io/important-project-2/**
 
 Send this link to your girlfriend! 💖
